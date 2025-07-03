@@ -12,7 +12,7 @@ This Java Swing application allows users to select a type of pet using radio but
 
 ## 🖼️ Application Output
 
-Below is a screenshot of the application at runtime with the "Pig" option selected:
+Below is a screenshot of the application at runtime with the "Cat" option selected:
 
 ![Application Screenshot](screenshot.png)
 
