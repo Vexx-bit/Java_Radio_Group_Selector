@@ -1,0 +1,8 @@
+build/
+nbproject/private/
+*.class
+*.jar
+*.log
+*.iml
+*.DS_Store
+
